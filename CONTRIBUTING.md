@@ -7,3 +7,4 @@ Notes and usage details for rev-skills.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- clarify the setup steps
